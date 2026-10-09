@@ -1,0 +1,1 @@
+`Fox.glb` is the "Fox" sample model from the [Khronos glTF-Sample-Models](https://github.com/KhronosGroup/glTF-Sample-Models) repository (CC0 / public domain), used here only as a temporary placeholder to prove the 3D-viewer + animation pipeline. Replace with a real Nascent Eternity character model (rigged, exported to glTF/GLB via Blockbench/Blender) once available.
